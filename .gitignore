@@ -40,3 +40,10 @@ myprog
 
 # debug information files
 *.dwo
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+obj/
+myProg
